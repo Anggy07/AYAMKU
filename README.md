@@ -1,3 +1,3 @@
 # AYAMKU
 projek PPL
-tentang simulasi ternak ayam potong
+project ini berbasis simulasi untuk beternak ayam potong sebelum memulai peternakan secara langsung
